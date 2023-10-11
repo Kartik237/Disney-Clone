@@ -3,7 +3,7 @@
 Disney Clone is a web application that aims to recreate the magic of Disney by providing a platform for users to explore Disney movies, characters, and more.
 
 ## Screenshot 
-![Screenshot of Disney Clone]([https://github.com/yourusername/yourrepository/raw/main/screenshots/screenshot1.png](https://github.com/Kartik237/Disney-Clone/blob/main/src/assets/Images/Disney%2B%20Web%20App.png))
+![Screenshot of Disney Clone](https://github.com/Kartik237/Disney-Clone/blob/main/src/assets/Images/%20Web%20App.png)
 
 
 ## Features
