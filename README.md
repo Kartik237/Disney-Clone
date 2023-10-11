@@ -1,8 +1,27 @@
-# React + Vite
+# Disney+ Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Disney Clone is a web application that aims to recreate the magic of Disney by providing a platform for users to explore Disney movies, characters, and more.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Browse a collection of Disney movies.
+- Explore information about Disney characters.
+- Watch trailers and clips from Disney movies.
+- Create a personalized watchlist of your favorite Disney films.
+- User authentication and profile management.
+- Search functionality to easily find Disney content.
+
+
+## Installation & Setup
+
+```
+# Run frontend (:3000) 
+
+# Run
+
+Go to the disney-clone directory and run
+
+npm install
+npm start
+
+```
