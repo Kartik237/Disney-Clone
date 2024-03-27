@@ -28,3 +28,7 @@ npm install
 npm start
 
 ```
+## to run babel-plugin-react-generate-property
+
+```
+# babel --plugins babel-plugin-react-generate-property <component.jsx>
